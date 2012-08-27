@@ -1,0 +1,4 @@
+Accessed McAfee April Data Summary.xls and fixed broken links. 
+Using similar resampling technique, will see if ED LOS, time to disposition, time to seeing an MD, time to seeing a nurse changed. TO establish the significance of the changes will use resampling. 
+
+Writing parser for same XLS file as above because the dates are not formatted in an way that is easy to process. The temptation to learn regular expressions is strong.
